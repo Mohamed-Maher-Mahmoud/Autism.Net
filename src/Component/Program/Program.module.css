@@ -1,0 +1,43 @@
+.programtitle {
+    padding-top: 150px;
+    text-align: right;
+    color: var(--main-color);
+}
+.lead {
+    line-height: 1.3;
+    font-size: 20px;
+    text-align: right;
+}
+.imgprogram {
+    padding-top: 50px;
+}
+.ready {
+border: 1px solid ;
+border-radius: 15px;
+cursor: pointer;
+display: inline-block;
+font-size: 15px;
+font-weight: 500;
+margin: 10px;
+padding: 10px 20px;
+text-align: center;
+text-transform: uppercase;
+transition: all 0.4s ease 0s;
+background-color: var(--main-color);
+color: white;
+}
+.ready:hover {
+    background-color: var(--main-color);
+    color: white; 
+}
+.table {
+    width: 950px;
+    margin-right: 170px;
+    border-radius: 10px;
+    border: solid;
+    line-height: 35px;
+    font-size: 15px;
+    margin-top: 60px;
+    margin-bottom: 40px;
+  
+}

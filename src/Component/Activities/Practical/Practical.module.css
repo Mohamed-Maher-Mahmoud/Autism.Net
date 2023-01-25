@@ -1,0 +1,26 @@
+.practicle {
+    padding-top: 160px;
+}
+.ready {
+    border: 1px solid ;
+    border-radius: 15px;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 15px;
+    font-weight: 500;
+    margin: 10px;
+    padding: 10px 20px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: all 0.4s ease 0s;
+    background-color: var(--main-color);
+    color: white;
+    }
+    .imgpract {
+        width: 40%;
+    }
+   .vidio {
+    padding-top: 160px;
+    padding-bottom: 50px;
+
+   }

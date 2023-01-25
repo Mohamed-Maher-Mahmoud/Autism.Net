@@ -1,0 +1,17 @@
+
+.title {
+    color: var(--main-color);
+    font-weight: bold;
+}
+.desc {
+    font-size: 18px;
+    line-height: 1.6;
+}
+.rat {
+    width: 100%;
+    height: 80%;
+    border-radius: 10px;
+}
+.imgpair {
+    width: 30%;
+}

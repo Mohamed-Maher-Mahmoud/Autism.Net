@@ -1,0 +1,20 @@
+.article {
+    padding-top: 150px;
+}
+.imgart {
+    width: 700px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+    
+}
+.titleart {
+    
+    color: var(--main-color);
+}
+.parart {
+    font-size: 20px;
+    line-height: 1.6;
+}
+.desart {
+    color: var(--main-color)
+}

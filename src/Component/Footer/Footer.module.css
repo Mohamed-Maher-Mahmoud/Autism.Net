@@ -1,0 +1,31 @@
+
+.footerarea {
+    padding: 10px 0;
+    background: #f9f9f9;
+    margin-top: 30px;
+  }
+  .footerl {
+    padding-bottom: 20px;
+  }
+  .footerl h1 {
+    color: var(--second-color);
+    padding: 0;
+    margin: 0;
+    font-size: 50px;
+    font-weight: bold;
+    line-height: 1;
+  }
+  
+  .footerl h1 span {
+    color: var(--main-color);
+  }
+  .pfooter {
+    color: #444;
+    font-weight: 600;
+  }
+  i {
+    color: var(--main-color);
+    font-size: 20px;
+  }
+  
+  
