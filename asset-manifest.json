@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/Autism.net/static/css/main.8d13a573.css",
+    "main.js": "/Autism.net/static/js/main.91e4920f.js",
+    "static/js/787.7f320c1d.chunk.js": "/Autism.net/static/js/787.7f320c1d.chunk.js",
+    "static/media/AboutAutism.jpg": "/Autism.net/static/media/AboutAutism.8680f61574eae5fc47a3.jpg",
+    "static/media/pairmatches.png": "/Autism.net/static/media/pairmatches.9309c854eaf5dadd90c0.png",
+    "static/media/fa-solid-900.ttf": "/Autism.net/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
+    "static/media/Autism-pana.png": "/Autism.net/static/media/Autism-pana.0bc68acfc42b0f5dc301.png",
+    "static/media/fa-brands-400.ttf": "/Autism.net/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
+    "static/media/top-view-non-binary-kids-playing-with-colorful-game_23-2148779611.webp": "/Autism.net/static/media/top-view-non-binary-kids-playing-with-colorful-game_23-2148779611.06bdaeb12ce0b128f627.webp",
+    "static/media/fa-solid-900.woff2": "/Autism.net/static/media/fa-solid-900.41c0f706d8ce93933771.woff2",
+    "static/media/fa-brands-400.woff2": "/Autism.net/static/media/fa-brands-400.3ac6859b28be946745f9.woff2",
+    "static/media/medium-shot-kid-wearing-headphones_23-2148551598.jpg": "/Autism.net/static/media/medium-shot-kid-wearing-headphones_23-2148551598.5f4e5e6b713aab698818.jpg",
+    "static/media/Cars.jpg": "/Autism.net/static/media/Cars.bd880d3ed3fecc4231e5.jpg",
+    "static/media/404-error-page-not-found.jpg": "/Autism.net/static/media/404-error-page-not-found.0512595cfd1757e7c39f.jpg",
+    "static/media/gradient-international-asperger-day-background_23-2149241504.webp": "/Autism.net/static/media/gradient-international-asperger-day-background_23-2149241504.c239ca26d6c514d013a5.webp",
+    "static/media/kid-drawing-floor_23-2148551461.jpg": "/Autism.net/static/media/kid-drawing-floor_23-2148551461.72adcb4a649b31cbe2e4.jpg",
+    "static/media/beautiful-mommy-sits-kitchen-table-with-her-preschoolaged-daughter-makes-something_616370-2972.jpg": "/Autism.net/static/media/beautiful-mommy-sits-kitchen-table-with-her-preschoolaged-daughter-makes-something_616370-2972.035ab2c20c9253583e6f.jpg",
+    "static/media/fa-regular-400.ttf": "/Autism.net/static/media/fa-regular-400.3cd9fb8fcec4ad0f99d4.ttf",
+    "static/media/autism-concept-illustration_114360-5049.jpg": "/Autism.net/static/media/autism-concept-illustration_114360-5049.c1b2094043a134e41011.jpg",
+    "static/media/twoyearold-girl-collects-puzzles-sitting-table-nursery_383647-1245.jpg": "/Autism.net/static/media/twoyearold-girl-collects-puzzles-sitting-table-nursery_383647-1245.e5561b4591c559dcd641.jpg",
+    "static/media/medium-shot-kid-showing-approval_23-2148551377.jpg": "/Autism.net/static/media/medium-shot-kid-showing-approval_23-2148551377.1bcbafe660eac7abe66d.jpg",
+    "static/media/autism-compositions-set_1284-73935.webp": "/Autism.net/static/media/autism-compositions-set_1284-73935.9eb901805d7a2fc94301.webp",
+    "static/media/fa-regular-400.woff2": "/Autism.net/static/media/fa-regular-400.1f3772178d9e5bed38a6.woff2",
+    "static/media/puzzle.webp": "/Autism.net/static/media/puzzle.b7bc186b4104510a7cb5.webp",
+    "static/media/fa-v4compatibility.ttf": "/Autism.net/static/media/fa-v4compatibility.e314b618134d5be20996.ttf",
+    "static/media/Connect4.jfif": "/Autism.net/static/media/Connect4.fa635a8d78e32c3461e4.jfif",
+    "static/media/fa-v4compatibility.woff2": "/Autism.net/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
+    "index.html": "/Autism.net/index.html",
+    "main.8d13a573.css.map": "/Autism.net/static/css/main.8d13a573.css.map",
+    "main.91e4920f.js.map": "/Autism.net/static/js/main.91e4920f.js.map",
+    "787.7f320c1d.chunk.js.map": "/Autism.net/static/js/787.7f320c1d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d13a573.css",
+    "static/js/main.91e4920f.js"
+  ]
+}
